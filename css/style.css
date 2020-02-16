@@ -10884,7 +10884,7 @@ body .notification strong { border: none; }
 	position: relative;
 	text-align: center;
 	overflow: hidden;
-	z-index: 999;
+	z-index: 10000;
 }
 
 .flip-banner:after {
