@@ -221,7 +221,7 @@ img.footer-logo { max-height: 43px; width: auto; transform: translate3d(0,0,0); 
 	z-index: 999;
 	padding: 25px 0 14px 0;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.12);
-	background: linear-gradient(1deg, rgba(255,255,255,1) 0%, rgba(249,249,249,1) 100%);
+	background: #FFF;
 
 }
 
