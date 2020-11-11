@@ -536,7 +536,6 @@ $(document).ready(function(){
 		$(this).append('<div class="tip-content">'+ tipContent + '</div>');
 	});
 
-	// Demo Purpose Trigger
 	$('.compare-button, .compare-widget-button').on('click', function(){
 		$('.compare-slide-menu').addClass('active');
 	});
